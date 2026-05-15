@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Front_END_Porfolio-/static/css/main.b6c340ac.css",
+    "main.js": "/Front_END_Porfolio-/static/js/main.6ed98ff3.js",
+    "static/js/453.6bc0dffc.chunk.js": "/Front_END_Porfolio-/static/js/453.6bc0dffc.chunk.js",
+    "static/media/rotha.png": "/Front_END_Porfolio-/static/media/rotha.e6335332fcb5da2700e3.png",
+    "static/media/LearningCode.png": "/Front_END_Porfolio-/static/media/LearningCode.bb9eb9d162169ec4d530.png",
+    "static/media/E-learning.jpg": "/Front_END_Porfolio-/static/media/E-learning.a2fa14558f141eba79ef.jpg",
+    "static/media/Movie.jpg": "/Front_END_Porfolio-/static/media/Movie.2975454238a58b581774.jpg",
+    "index.html": "/Front_END_Porfolio-/index.html",
+    "main.b6c340ac.css.map": "/Front_END_Porfolio-/static/css/main.b6c340ac.css.map",
+    "main.6ed98ff3.js.map": "/Front_END_Porfolio-/static/js/main.6ed98ff3.js.map",
+    "453.6bc0dffc.chunk.js.map": "/Front_END_Porfolio-/static/js/453.6bc0dffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c340ac.css",
+    "static/js/main.6ed98ff3.js"
+  ]
+}
