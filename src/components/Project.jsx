@@ -1,18 +1,18 @@
 import { useRef } from "react";
-import project_1 from "../assets/Project_1.jpg";
-import project_2 from "../assets/Project_2.jpg";
-import project_3 from "../assets/Project_3.jpg";
-import project_4 from "../assets/Project_4.jpg";
-import project_5 from "../assets/Project_5.jpg";
+
+import project_2 from "../assets/CamFlex.jpg";
+import project_3 from "../assets/E-learning.jpg";
+import project_4 from "../assets/LearningCode.png";
+import project_5 from "../assets/Movie.jpg";
 
 const projects = [
-  {
-    name: "VERSES",
-    description: "A web app to explore, buy and sell products.",
-    url: "https://sovanrotha.github.io/VERSES-Project-/",
-    image: project_1,
-    tag: "E-Commerce",
-  },
+  // {
+  //   name: "VERSES",
+  //   description: "A web app to explore, buy and sell products.",
+  //   url: "https://sovanrotha.github.io/VERSES-Project-/",
+  //   image: project_1,
+  //   tag: "E-Commerce",
+  // },
   {
     name: "CamFlex",
     description: "A movie exploration and streaming platform.",

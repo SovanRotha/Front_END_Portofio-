@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import girl from '../assets/girl.jpg';
+import rotha from '../assets/rotha.png';
 
  function Home() {
   const ringRef = useRef(null);
@@ -169,7 +169,7 @@ import girl from '../assets/girl.jpg';
 
             {/* Stats row */}
             <div className="anim-fade-up-5 flex items-center gap-4">
-              {[["1+", "Years Exp."], ["40+", "Projects"], ["18", "Clients"]].map(([n, l]) => (
+              {[["1+", "Years Exp."], ["4+", "Projects"]].map(([n, l]) => (
                 <div key={l} className="stat-card flex flex-col items-center px-5 py-3 rounded-2xl bg-white/60 dark:bg-stone-800/60 backdrop-blur border border-white/70 dark:border-stone-700/60">
                   <span className="home-serif text-2xl font-black text-amber-600">{n}</span>
                   <span className="text-xs text-stone-500 dark:text-stone-400 mt-0.5 whitespace-nowrap">{l}</span>
@@ -195,7 +195,7 @@ import girl from '../assets/girl.jpg';
               {/* Photo circle */}
               <div className="absolute inset-4 rounded-full overflow-hidden border-4 border-white dark:border-stone-800 shadow-2xl">
                 <img
-                  src={girl}
+                  src={rotha}
                   alt="Profile"
                   className="w-full h-full object-cover object-center"
                 />
