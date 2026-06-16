@@ -4,6 +4,7 @@ import project_2 from "../assets/CamFlex.jpg";
 import project_3 from "../assets/E-learning.jpg";
 import project_4 from "../assets/LearningCode.png";
 import project_5 from "../assets/Movie.jpg";
+import Clinic from "../assets/Clinic.png";
 
 const projects = [
   // {
@@ -41,6 +42,13 @@ const projects = [
     image: project_5,
     tag: "Entertainment",
   },
+  {
+    name: "Clinic Management System",
+    description: "A web app to manage clinic operations efficiently.",
+    url: "https://clinic-system-react-front-7mzc5kn92-sovanrothas-projects.vercel.app/",
+    image: Clinic,
+    tag: "Healthcare",
+  }
 ];
 
 // Must use full Tailwind strings — no dynamic interpolation

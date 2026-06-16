@@ -17,8 +17,8 @@ const tags = ["GraphQL", "Docker", "Figma", "Redis", "Three.js", "Rust", "TypeSc
 
 const stats = [
   { n: "1+", l: "Years Exp." },
-  { n: "20+", l: "Projects" },
-  { n: "18", l: "Clients" },
+  { n: "4+", l: "Projects" },
+  
 ];
 
 /* ── tiny hook: fires when element enters viewport ── */
@@ -246,7 +246,7 @@ export default function AboutMe() {
               </Reveal>
 
               {/* Tags */}
-              <Reveal direction="left" delay={200}>
+              {/* <Reveal direction="left" delay={200}>
                 <div>
                   <p className="text-xs font-bold tracking-widest uppercase text-stone-400 dark:text-stone-500 mb-3">Also familiar with</p>
                   <div className="flex flex-wrap gap-2">
@@ -260,7 +260,7 @@ export default function AboutMe() {
                     ))}
                   </div>
                 </div>
-              </Reveal>
+              </Reveal> */}
             </div>
 
             {/* ── RIGHT col: Skills ── */}
